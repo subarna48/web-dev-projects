@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(3, 12, 141);
+    color: antiquewhite;
+    font-size: 1.0rem;
+
+}
+.container {
+    background-color: cadetblue;
+    color: black;
+    max-width: 50%;
+    display: flex;
+    flex-direction: column; /* Assuming you want items in a column */
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+
+    margin: 5px; /* Optional: Add margin for spacing between input boxes */
+}
+
+
+#container-paragraph{
+    background-color: antiquewhite;
+}
+
+input[type=text] {
+    background-color: black;
+}
+input[type=password] {
+    background-color: rgb(144, 189, 183);
+    color:rgb(0, 0, 0);
+}
+
+
+
+
+
+img{
+    height: 10rem;
+
+}
